@@ -1,3 +1,29 @@
+# architecture.of.internet-product
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A collection of internet companies' technical architectures, covering WeChat, Taobao, Tencent, Alibaba, OpenAI, Google, Amazon and more.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+互联网公司技术架构资料合集，涵盖微信、淘宝、微博、腾讯、阿里、美团、百度、OpenAI、Google 等。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # 互联网公司经典技术架构
 
 以数字开头的目录为互联网公司的架构文档。
